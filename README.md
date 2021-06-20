@@ -3,8 +3,8 @@ Cards game C# console application
 
 # Please follow below instructions before running the applications:
 1.	Solution contains 2 projects.
-		*	CardGame - contains the care game application.
-		*	CardGameTests	- contains the unit test cases.
+	*	CardGame - contains the care game application.
+	*	CardGameTests	- contains the unit test cases.
 
 2.	Game envirnoment :
 		a.	Please run the application on Visual studio 2019.
